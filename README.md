@@ -1,6 +1,7 @@
 # Prism - CareerCompass AI (Custom Edition)
 
 一个高度交互、极简设计的 AI 对话面板，集成了四位会根据你的行为做出反应的 SVG 吉祥物。支持多模型切换（OpenAI, DeepSeek, Ollama 等）和人格预设。
+<img width="1808" height="913" alt="image" src="https://github.com/user-attachments/assets/8803d3bb-4a22-40be-87c3-2c471be30f72" />
 
 ## ✨ 特性
 
